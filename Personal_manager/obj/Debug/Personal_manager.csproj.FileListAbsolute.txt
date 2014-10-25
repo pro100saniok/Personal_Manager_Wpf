@@ -1,0 +1,13 @@
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\bin\Debug\Personal_manager.exe.config
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\bin\Debug\Personal_manager.exe
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\bin\Debug\Personal_manager.pdb
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.csprojResolveAssemblyReference.cache
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\MainWindow.baml
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\MainWindow.g.cs
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\App.g.cs
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager_MarkupCompile.cache
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.g.resources
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.exe
+c:\users\sasha\documents\visual studio 2013\Projects\Personal_manager\Personal_manager\obj\Debug\Personal_manager.pdb
